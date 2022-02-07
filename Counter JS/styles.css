@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+.container{
+height: 10em;
+text-align: center;
+}
+
+h1{
+    font-size: 5rem;
+    color: #999;
+}
+#value{
+    font-size: 25rem;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    margin-right: 50px;
+    background-color: #999;
+    padding: 6px 20px;
+    border-radius: 3px;
+    color: #fff;
+    border: #885AF826 solid;
+    cursor: pointer;
+}
